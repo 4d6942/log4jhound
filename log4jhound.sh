@@ -19,7 +19,7 @@ Searching string in files...
 
 "
 
-grep -rnw $1 -e 'log4j' --exclude="*.jar"
+grep -rn $1 -e 'log4j' --exclude="*.jar"
 
 echo "
 
