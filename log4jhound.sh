@@ -8,7 +8,7 @@ echo "
 |____/\____/\___  /\____   /\__|  |___|  /\____/|____/|___|  /\____ | 
            /_____/      |__\______|    \/                  \/      \/ 
 		   
-v1.00                        Tomas Beaujean <https://linktr.ee/4d6942>
+v1.01                      Tomas Beaujean <https://linktr.ee/mebibite>
 
 
 Usage: ./log4jhound.sh root_directory
